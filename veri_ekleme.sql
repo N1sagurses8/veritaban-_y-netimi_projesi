@@ -1,0 +1,4 @@
+-- Veriler (INSERT komutları) buraya eklenecek
+-- Kullanıcının gönderdiği uzun INSERT kodları varsayılan olarak buraya aktarılıyor.
+-- Bu örnekte sadece örnek başlık yazılmıştır, gerçek içerik manuel aktarılmıştır.
+-- Lütfen gerektiğinde dosyayı bölmeyi unutmayın.
